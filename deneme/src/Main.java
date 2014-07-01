@@ -9,6 +9,7 @@ public class Main {
 		for (int i = 0 ; i < 100 ; i++) {
 			x += i;
 		}
+		
 		System.out.println(""+x);
 		
 		System.out.println(Test.topla(3, 5));
